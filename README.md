@@ -1,2 +1,3 @@
 # -Medieinstitutet---HTML-CSS---Prepp-uppgift-
 Första uppgift inom HTML CSS, Prepp uppgift ej betygsättande.
+Hej mitt namn är Alexander! Tagit mig ett tag att förstå på mig detta men nu tror jag att jag äntligen kommit någon vart i programmet. I somras har jag endast tagit det lugnt samt njutit av solen. Anledningen till varför jag sökte denna utbildning är pga att jag anser det väldigt intressant samt vill våga testa något nytt som jag inte gjort innan. Jag är duktig på siffror samt matematik då såklart men programmering är något helt nytt för mig. Håller tummarna på att detta kommer gå bra ska bli roligt att komma igång!
